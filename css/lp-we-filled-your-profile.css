@@ -1,0 +1,8 @@
+.simple-listing-profile-slick-carousel{
+    display: none;
+}
+.slick-initialized.simple-listing-profile-slick-carousel{ display: block; }
+.simple-listing-profile-slick-carousel .fw-carousel-item { padding: 10px 15px 0 15px; }
+.simple-listing-profile-slick-carousel {margin: 0 15px; max-width: 100%; box-sizing: border-box; }
+.simple-listing-profile-slick-carousel .slick-list{ background: #fff; }
+.simple-listing-profile-slick-carousel .slick-dots{ bottom: 0; }
